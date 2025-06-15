@@ -1,0 +1,11 @@
+streamlit
+openai
+python-dotenv
+psycopg2-binary
+chromadb
+pandas
+sqlalchemy
+langchain
+langchain-openai
+langchain-community
+langchain-chroma 
